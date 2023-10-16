@@ -1,0 +1,3 @@
+# Sim City Group 3
+# Colton Pulliam, Charles Saba, Caleb Neumann, Yohan Sanchez
+# As of November 4th, 2022. The main file calls to the config file function and region map function using the operation header. In order to compile, g++ the files main.cpp, regionmap.cpp, config.cpp, and operation.h at the same time and then run the code. This will output the configuration and intial array. As far as the rest of the functionality. Depsite having both working code for the adjacency list and our cell nodes as well as psuedocode that could be altered to work with a few tweaks, we cannot implement any further due to issues implementing the functions into operation.h.
